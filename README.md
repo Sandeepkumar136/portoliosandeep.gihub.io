@@ -1,2 +1,2 @@
-# portoliosandeep.gihub.io
+# portoliosandeep.github.io
 This is my Personal Portfolio in which I worked too much projects. 
